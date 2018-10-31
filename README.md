@@ -13,4 +13,4 @@ This is a sample script which will generate the image output.png (included in th
 * image1.png and image2.png are the two image files used for in this example.
 * font.otf is the font used in the final generated image.
 
-Feel free to use this code for anything cool !...
+Feel free to use this code for anything cool!
